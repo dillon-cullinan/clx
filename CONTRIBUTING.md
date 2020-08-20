@@ -22,7 +22,7 @@ into three categories:
 
 ### Your first issue
 
-1. Read the project's [README.md](https://github.com/rapidsai/clx/blob/master/README.md)
+1. Read the project's [README.md](https://github.com/rapidsai/clx/blob/main/README.md)
     to learn how to setup the development environment
 2. Find an issue to work on. The best way is to look for the [good first issue](https://github.com/rapidsai/clx/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
     or [help wanted](https://github.com/rapidsai/clx/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) labels
@@ -186,4 +186,4 @@ Note: This conda installation only applies to Linux and Python versions 3.6/3.7.
 Python API documentation can be generated from [docs](docs) directory.
 
 ## Attribution
-Portions adopted from https://github.com/pytorch/pytorch/blob/master/CONTRIBUTING.md
+Portions adopted from https://github.com/pytorch/pytorch/blob/main/CONTRIBUTING.md

@@ -3281,7 +3281,7 @@ Senate
 1951
 1990s
 draw
-master
+main
 Police
 ##ius
 renamed
@@ -6530,7 +6530,7 @@ Murphy
 ##fish
 ##ase
 distant
-##master
+##main
 ##ora
 Organization
 doorway
@@ -11571,7 +11571,7 @@ stealing
 OS
 hatred
 ##lled
-masters
+mains
 violation
 Rule
 ##nger
@@ -14449,7 +14449,7 @@ Isabelle
 irrigation
 spectacular
 shuttle
-mastering
+maining
 ##aro
 Nathaniel
 Retired
@@ -20879,7 +20879,7 @@ EPA
 bumped
 Designed
 Leaders
-mastered
+mained
 Manfred
 swirled
 McCain
@@ -22053,7 +22053,7 @@ Verona
 outrage
 Improvement
 ##UI
-masterpiece
+mainpiece
 slung
 Calling
 chant
@@ -22917,7 +22917,7 @@ heiress
 SSR
 resentment
 Arbor
-headmaster
+headmain
 ##uren
 unlimited
 ##with
@@ -23107,7 +23107,7 @@ Alternatively
 smug
 ##kumar
 cabins
-remastered
+remained
 Connolly
 Kelsey
 LED

@@ -30,7 +30,7 @@ response = {
     "emails": [
         "abuse@safenames.net",
         "wadmpfvzi5ei@idp.email",
-        "hostmaster@safenames.net",
+        "hostmain@safenames.net",
     ],
     "updated_date": [datetime_1, datetime_2],
 }
@@ -42,7 +42,7 @@ def test_whois(client, domains):
     expected_output = [{
         "domain_name": "NVIDIA.COM",
         "registrar": "Safenames Ltd",
-        "emails": "abuse@safenames.net,wadmpfvzi5ei@idp.email,hostmaster@safenames.net",
+        "emails": "abuse@safenames.net,wadmpfvzi5ei@idp.email,hostmain@safenames.net",
         "updated_date": "05-17-2020 00:00:00,05-18-2020 00:00:00",
     }]
     when(whois).whois(...).thenReturn(response)

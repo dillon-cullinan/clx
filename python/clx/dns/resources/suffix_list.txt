@@ -869,7 +869,7 @@ de
 dj
 
 // dk : https://en.wikipedia.org/wiki/.dk
-// Confirmed by registry <robert@dk-hostmaster.dk> 2008-06-17
+// Confirmed by registry <robert@dk-hostmain.dk> 2008-06-17
 dk
 
 // dm : https://en.wikipedia.org/wiki/.dm
@@ -6280,7 +6280,7 @@ or.tz
 sc.tz
 tv.tz
 
-// ua : https://hostmaster.ua/policy/?ua
+// ua : https://hostmain.ua/policy/?ua
 // Submitted by registry <dk@cctld.ua>
 ua
 // ua 2LD
@@ -6291,7 +6291,7 @@ in.ua
 net.ua
 org.ua
 // ua geographic names
-// https://hostmaster.ua/2ld/
+// https://hostmain.ua/2ld/
 cherkassy.ua
 cherkasy.ua
 chernigov.ua
@@ -6626,7 +6626,7 @@ lib.wy.us
 // k12.ma.us contains school districts in Massachusetts. The 4LDs are
 //  managed independently except for private (PVT), charter (CHTR) and
 //  parochial (PAROCH) schools.  Those are delegated directly to the
-//  5LD operators.   <k12-ma-hostmaster _ at _ rsuc.gweep.net>
+//  5LD operators.   <k12-ma-hostmain _ at _ rsuc.gweep.net>
 pvt.k12.ma.us
 chtr.k12.ma.us
 paroch.k12.ma.us
@@ -10962,7 +10962,7 @@ co.com
 c.la
 
 // certmgr.org : https://certmgr.org
-// Submitted by B. Blechschmidt <hostmaster@certmgr.org>
+// Submitted by B. Blechschmidt <hostmain@certmgr.org>
 certmgr.org
 
 // Citrix : https://citrix.com
@@ -11449,7 +11449,7 @@ worse-than.tv
 writesthisblog.com
 
 // ddnss.de : https://www.ddnss.de/
-// Submitted by Robert Niedziela <webmaster@ddnss.de>
+// Submitted by Robert Niedziela <webmain@ddnss.de>
 ddnss.de
 dyn.ddnss.de
 dyndns.ddnss.de
@@ -11512,7 +11512,7 @@ enonic.io
 customer.enonic.io
 
 // EU.org https://eu.org/
-// Submitted by Pierre Beyssac <hostmaster@eu.org>
+// Submitted by Pierre Beyssac <hostmain@eu.org>
 eu.org
 al.eu.org
 asso.eu.org
@@ -12037,12 +12037,12 @@ myjino.ru
 js.org
 
 // KaasHosting : http://www.kaashosting.nl/
-// Submitted by Wouter Bakker <hostmaster@kaashosting.nl>
+// Submitted by Wouter Bakker <hostmain@kaashosting.nl>
 kaas.gg
 khplay.nl
 
 // Keyweb AG : https://www.keyweb.de
-// Submitted by Martin Dannehl <postmaster@keymachine.de>
+// Submitted by Martin Dannehl <postmain@keymachine.de>
 keymachine.de
 
 // KingHost : https://king.host
@@ -12478,7 +12478,7 @@ ownprovider.com
 own.pm
 
 // OX : http://www.ox.rs
-// Submitted by Adam Grand <webmaster@mail.ox.rs>
+// Submitted by Adam Grand <webmain@mail.ox.rs>
 ox.rs
 
 // oy.lc
@@ -12732,7 +12732,7 @@ customer.speedpartner.de
 api.stdlib.com
 
 // Storj Labs Inc. : https://storj.io/
-// Submitted by Philip Hutchins <hostmaster@storj.io>
+// Submitted by Philip Hutchins <hostmain@storj.io>
 storj.farm
 
 // Studenten Net Twente : http://www.snt.utwente.nl/
@@ -12876,7 +12876,7 @@ uber.space
 *.uberspace.de
 
 // UDR Limited : http://www.udr.hk.com
-// Submitted by registry <hostmaster@udr.hk.com>
+// Submitted by registry <hostmain@udr.hk.com>
 hk.com
 hk.org
 ltd.hk
@@ -12896,11 +12896,11 @@ lib.de.us
 2038.io
 
 // Viprinet Europe GmbH : http://www.viprinet.com
-// Submitted by Simon Kissel <hostmaster@viprinet.com>
+// Submitted by Simon Kissel <hostmain@viprinet.com>
 router.management
 
 // Virtual-Info : https://www.virtual-info.info/
-// Submitted by Adnan RIHAN <hostmaster@v-info.info>
+// Submitted by Adnan RIHAN <hostmain@v-info.info>
 v-info.info
 
 // Voorloper.com: https://voorloper.com
@@ -12975,7 +12975,7 @@ nohost.me
 noho.st
 
 // ZaNiC : http://www.za.net/
-// Submitted by registry <hostmaster@nic.za.net>
+// Submitted by registry <hostmain@nic.za.net>
 za.net
 za.org
 
